@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **a mobile app for firefighters. This is a secret !!**
 
-- 🌱 I’m  learning **the JavaScript ecosystem, from frontend to backend, databases, React Native..**
+- 🌱 I’m  learning **the JavaScript ecosystem.**
 
 - 👯 I’m mostly looking to collaborate on **JavaScript based projects, but I'm looking forward to learning other languages as well**
 
