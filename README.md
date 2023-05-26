@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://kprykorn.dev](https://kprykorn.dev)
 
-- ⚡ About me : **I love Formula 1 and Basketball**
+- ⚡ About me : **I love Formula 1, Basketball and video games!**
 
 
 <h3 align="center">Some tools and languages I work with:</h3>
