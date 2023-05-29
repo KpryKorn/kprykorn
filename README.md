@@ -2,9 +2,7 @@
 <h3 align="center">A passionate junior frontend developer from France, and a JavaScript enjoyer.</h3>
 &nbsp;
 
-- 🔭 I’m currently working on **a mobile app for firefighters. This is a secret !!**
-
-- 🌱 I’m  learning **the JavaScript ecosystem.**
+- 🌱 I’m  learning **the JavaScript & React ecosystem.**
 
 - 👯 I’m mostly looking to collaborate on **JavaScript based projects, but I'm looking forward to learning other languages as well**
 
