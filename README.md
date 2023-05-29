@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Sacha</h1>
-<h3 align="center">A passionate frontend developer from France, and JavaScript enjoyer.</h3>
+<h3 align="center">A passionate junior frontend developer from France, and a JavaScript enjoyer.</h3>
 &nbsp;
 
 - 🔭 I’m currently working on **a mobile app for firefighters. This is a secret !!**
