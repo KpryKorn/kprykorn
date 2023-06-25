@@ -2,9 +2,7 @@
 <h3 align="center">A passionate junior frontend developer from France, and a JavaScript enjoyer.</h3>
 &nbsp;
 
-- 🌱 I’m  learning **the JavaScript & React ecosystem.**
-
-- 👯 I’m mostly looking to collaborate on **JavaScript based projects, but I'm looking forward to learning other languages as well**
+- 🌱 I’m currently learning **the JavaScript & React ecosystem.**
 
 - 👨‍💻 All of my projects are available at [https://kprykorn.dev](https://kprykorn.dev)
 
