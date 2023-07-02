@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋 I'm Sacha</h1>
-<h3 align="center">A passionate junior frontend developer from France, and a JavaScript enjoyer.</h3>
+<h3 align="center">A passionate JavaScript developer from France.</h3>
 &nbsp;
 
-- 🌱 I’m currently learning **the JavaScript & React ecosystem.**
+- 🌱 I’m currently learning **the React ecosystem.**
 
 - 👨‍💻 All of my projects are available at [https://kprykorn.dev](https://kprykorn.dev)
 
