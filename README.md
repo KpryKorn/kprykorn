@@ -2,7 +2,7 @@
 <h3 align="center">A passionate JavaScript developer from France.</h3>
 &nbsp;
 
-- 🌱 I’m currently learning **the React ecosystem.**
+- 🌱 I’m currently learning **TypeScript** and would love to learn **Flutter** as well!
 
 - 👨‍💻 All of my projects are available at [https://kprykorn.dev](https://kprykorn.dev)
 
