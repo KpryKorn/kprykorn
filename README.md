@@ -2,11 +2,11 @@
 <h3 align="center">A passionate JavaScript developer from France.</h3>
 &nbsp;
 
-- 🌱 I’m currently learning **TypeScript** and would love to learn **Flutter** as well!
+- 🌱 I’m currently learning **TypeScript** && **the MERN stack**!
 
-- 👨‍💻 All of my projects are available at [https://kprykorn.dev](https://kprykorn.dev)
+- 👨‍💻 I am in my 4th year of postgraduate studies in **computational engineering**, and by 2025 I will be a **software engineer**
 
-- ⚡ About me : **I love sports bikes, Formula 1, Basketball and video games!**
+- ⚡ About me : **I love sports bikes, Formula 1, Basketball and video games**
 
 
 <h3 align="center">Some tools and languages I work with:</h3>
