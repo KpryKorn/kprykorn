@@ -2,7 +2,9 @@
 <h3 align="center">A passionate JavaScript developer from France.</h3>
 &nbsp;
 
-- 🌱 I’m currently learning **TypeScript** && **the MERN stack**!
+- 🌱 I’m currently learning **TypeScript** && **the MERN stack** (MySQL tho 😎)!
+
+- 💛 My favorite language is JavaScript but I will learn Python someday to get into Data Science 
 
 - 👨‍💻 I am in my 4th year of postgraduate studies in **computational engineering**, and by 2025 I will be a **software engineer**
 
