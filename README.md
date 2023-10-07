@@ -2,7 +2,7 @@
 <h3 align="center">A passionate JavaScript developer from France.</h3>
 &nbsp;
 
-- 🌱 I’m currently learning **TypeScript** && **the MERN stack** (MySQL tho 😎)!
+- 🌱 I’m currently learning **TypeScript** && **NextJS 13** !
 
 - 💛 My favorite language is JavaScript but I will learn Python someday to get into Data Science 
 
