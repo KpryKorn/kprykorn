@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Sacha</h1>
-<h3 align="center">A passionate JavaScript developer from France, 4th year of postgraduate studies in **computational engineering**</h3>
+<h3 align="center">A passionate JavaScript developer from France, 4th year of postgraduate studies in computational engineering</h3>
 &nbsp;
 
 <h3 align="center">Some tools and languages I work with:</h3>
