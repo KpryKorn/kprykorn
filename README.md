@@ -7,11 +7,11 @@
   <li>Tailwind CSS / SASS</li>
   <li>Prisma</li>
 </ul>
-<hr/>
 <h3>My goals for 2024 :</h3>
 <ul>
   <li>Learn Docker</li>
   <li>Learn the basics of CI/CD</li>
-  <li>Create some sort of a mobile application using React Native</li>
+  <li>Create some sort of mobile application using React Native</li>
 </ul>
+<hr/>
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=kprykorn&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="kprykorn" /></p>
