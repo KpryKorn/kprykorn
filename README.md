@@ -7,6 +7,7 @@
   <li>Tailwind CSS / SASS</li>
   <li>Prisma</li>
 </ul>
+
 <h3>My goals for 2024 :</h3>
 <ul>
   <li>Learn Docker 🐳</li>
