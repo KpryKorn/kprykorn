@@ -11,8 +11,7 @@
 <h3>My goals for 2024 :</h3>
 <ul>
   <li>Learn Docker 🐳</li>
-  <li>Learn Adonis.js</li>
-  <li>Learn the basics of CI/CD 🚀</li>
+  <li>Learn CI/CD 🚀</li>
   <li>Create some sort of mobile application using React Native 📱</li>
 </ul>
 <hr/>
