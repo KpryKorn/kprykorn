@@ -12,6 +12,7 @@
 <ul>
   <li>Learn Docker 🐳</li>
   <li>Learn CI/CD 🚀</li>
+  <li>Get better at testing my apps</li>
   <li>Create some sort of mobile application using React Native 📱</li>
 </ul>
 <hr/>
