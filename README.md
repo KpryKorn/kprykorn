@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋 I'm Sacha</h1>
-<h3>My go-to stack :</h3>
+<h3 align="center">A fullstack developer from France.</h3>
+<p>
+  My main stack is made of the following:
+</p>
 <ul>
-  <li>React / NextJS</li>
   <li>TypeScript</li>
-  <li>Vite.js</li>
-  <li>Tailwind CSS / SASS</li>
-  <li>Prisma</li>
+  <li>React | NextJS | Vite.js</li>
+  <li>AdonisJS</li>
+  <li>Tailwind CSS | SASS</li>
+  <li>Prisma | Drizzle</li>
 </ul>
 
-<h3>My goals for 2024 :</h3>
-<ul>
-  <li>Learn Docker 🐳</li>
-  <li>Learn CI/CD 🚀</li>
-  <li>Get better at testing my apps</li>
-  <li>Create some sort of mobile application using React Native 📱</li>
-</ul>
+<h3>You can connect with me [here](https://www.kprykorn.dev/links)</h3>
+
 <hr/>
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=kprykorn&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="kprykorn" /></p>
