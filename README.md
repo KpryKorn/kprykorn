@@ -11,7 +11,7 @@
   <li>Prisma | Drizzle</li>
 </ul>
 
-<h3>You can connect with me [here](https://www.kprykorn.dev/links)</h3>
+<h3>You can connect with me <a href="https://www.kprykorn.dev/links">here 😁</a></h3>
 
 <hr/>
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=kprykorn&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="kprykorn" /></p>
