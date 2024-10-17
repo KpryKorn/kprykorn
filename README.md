@@ -1,14 +1,32 @@
 <h1 align="center">Hi 👋 I'm Sacha</h1>
-<h3 align="center">A fullstack developer from France.</h3>
+<h3 align="center">A fullstack web developer from France.</h3>
+<h3>
+  My main stacks
+</h3>
 <p>
-  My main stack is made of the following:
+  For content-based websites
 </p>
 <ul>
+  <li>Headless CMS</li>
+  <li>SQLite</li>
+  <li>Astro</li>
+</ul>
+
+<p>
+  Minimal backend needs
+</p>
+<ul>
+  <li>Nextjs</li>
   <li>TypeScript</li>
-  <li>React | NextJS | Vite.js</li>
-  <li>AdonisJS</li>
-  <li>Tailwind CSS | SASS</li>
-  <li>Prisma | Drizzle</li>
+</ul>
+
+<p>
+  Heavy backend oriented
+</p>
+<ul>
+  <li>Laravel</li>
+  <li>PostgreSQL</li>
+  <li>React/Vue</li>
 </ul>
 
 <h3>You can connect with me <a href="https://www.kprykorn.dev/links">here 😁</a></h3>
