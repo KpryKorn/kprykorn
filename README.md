@@ -16,13 +16,12 @@
 
 ### 🏗 Backend
 - Next.js (for minimal backend needs)
-- Laravel (for heavy backend apps)
-- Node.js / Hono (lightweight APIs)
+- Node.js / Hono / Express (APIs)
 - PostgreSQL / SQLite
 
 ### 🔧 Tools & DevOps
 - Docker
-- Coolify (for VPS deployment)
+- Coolify
 - Grafana (monitoring & dashboards)
 
 ## 📡 Connect with Me  
